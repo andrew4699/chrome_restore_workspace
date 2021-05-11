@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "Chrome Window Restore",
+  "version": "0.1",
+  "background": {
+    "scripts": ["publisher.js"]
+  },
+  "permissions": [
+    "downloads",
+    "downloads.shelf",
+    "tabs"
+  ]
+}

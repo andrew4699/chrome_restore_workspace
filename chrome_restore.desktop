@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=chrome_restore
+Exec=/home/andrew/workspace/chrome_restore_workspace/chrome_restore.py
+Icon=/opt/google/chrome/product_logo_256.png
